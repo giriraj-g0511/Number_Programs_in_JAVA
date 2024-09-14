@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Harshad Number also called as Niven Number
 public class HarshadNumber {
 
 	static Scanner sc=new Scanner(System.in);
